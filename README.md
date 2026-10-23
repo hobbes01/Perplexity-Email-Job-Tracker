@@ -3,17 +3,22 @@ Description of a Perplexity automation that scans and organize offers from job b
 
 ## Requirements
 
-* User has a Perplexity Pro account (untested without account)
-* User has a Google account (process-dedicated is recommended).
-* User has directed job boards alerts to the Gmail address
-  associated to the Google account.
+* A Perplexity Pro account (untested without Pro account)
+* A Google account (process-dedicated is recommended to isolate the automation on a restricted set of messages).
+* Job boards alerts sent to the Gmail address associated with the Google account.
 
-## Goals
+## Goals of the Job Tracker automation
 
-* Save time, scanning incoming job alert emails automatically.
-* Get a daily first sort and analysis of all incoming job offers.
-* Get overall statistics of how well the job alerts perform to improve
-  the job board list, filters, etc.
+* Spend less time scanning emails, offers... and more time communicating with hiring teams.
+* Apply to the best matching offers, faster.
+* Improve the performance of job alerts based on collected statistics.
+
+## Features
+
+* Daily scanning of incoming job board emails.
+* Sorting of embedded offers according to your CV, profile, project and a 5-level matching scale.
+* Attribute detection (if advertised): company, city, job title, job description, min-max salary, offer URL.
+* Proposition of reasons for applying and reasons for not applying.
 
 ## Initialization
 
