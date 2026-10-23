@@ -37,4 +37,22 @@ Description of a Perplexity automation that scans and organize offers from job b
 1. Once automation is created, Perplexity will offer to attach it to
    a project. Accept as it will record daily execution results.
 
-   
+## Usage
+
+Every day, the automation will update the spreadsheet with new offers 
+found in incoming job alerts.
+
+A set of pivot tables in the spreadsheet provides insights about how the 
+process is going : last incoming offers, number of offers by salary ranges,
+number of offers and match levels per job board, etc. Of course you can customize
+theses views to fit your process and requirements.
+
+## Warnings
+
+* Watch closely how your automation consumes tokens. We observe an average
+  consumption of 2 to 300 tokens per day.
+* Results provided in the spreadsheet are provided by the AI model you have
+  chosen. AI can make mistakes. Closely review matching levels, reasons for
+  applying and not applying. Adapt the automation accordingly if needed.
+
+
