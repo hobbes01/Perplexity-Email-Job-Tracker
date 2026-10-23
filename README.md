@@ -24,8 +24,8 @@ Description of a Perplexity automation that scans and organize offers from job b
       |_ CV1.md, CV2.md, Job Tracker - JOBNAME.
     ```
     where CV1.md and CV2.md are files describing your job search and 
-    Job Tracker - JOBNAME is the Google spreadsheet shared in this 
-    repository.
+    Job Tracker - JOBNAME is the Google spreadsheet that will be used
+    in the automation. The template is [here](https://docs.google.com/spreadsheets/d/1VLBjfaw47AQ5sM7i7M2YKbkXVaLLNezClutV5u4km-E/copy)
 1. Customize the [automation_description.md](automation_description.md)
    file with your paths and Google IDs.
 1. Create a Perplexity automation. NB - We used GLM 5.3 because,
