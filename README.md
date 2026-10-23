@@ -49,10 +49,10 @@ theses views to fit your process and requirements.
 
 ## Warnings
 
-* Watch closely how your automation consumes tokens. We observe an average
+* Watch closely how your automation consumes tokens. We observed an average
   consumption of 2 to 300 tokens per day.
 * Results provided in the spreadsheet are provided by the AI model you have
-  chosen. AI can make mistakes. Closely review matching levels, reasons for
-  applying and not applying. Adapt the automation accordingly if needed.
+  chosen. AI can make mistakes. Closely review results such as matching levels,
+  reasons for applying and not applying. Adapt the automation if needed.
 
 
