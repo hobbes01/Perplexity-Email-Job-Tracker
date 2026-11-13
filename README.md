@@ -1,5 +1,5 @@
 # Perplexity-Email-Job-Tracker
-Description of a Perplexity automation that scans and organizes offers from job board emails.
+Description of a [Perplexity](https://www.perplexity.ai/) automation that scans and organizes offers from job board emails.
 
 ## Requirements
 
